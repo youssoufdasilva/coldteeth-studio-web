@@ -1,0 +1,35 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/3LQM4IbYZwuCpzR7_LAAL/pages/_app.js": 2,
+      "static/3LQM4IbYZwuCpzR7_LAAL/pages/_error.js": 3,
+      "static/3LQM4IbYZwuCpzR7_LAAL/pages/index.js": 4,
+      "static/3LQM4IbYZwuCpzR7_LAAL/pages/post.js": 5,
+      "static/runtime/main.js": 6,
+      "static/tjMPGr1J1DpsIJVDPiDh5/pages/_app.js": 7,
+      "static/tjMPGr1J1DpsIJVDPiDh5/pages/_error.js": 8,
+      "static/tjMPGr1J1DpsIJVDPiDh5/pages/index.js": 9,
+      "static/tjMPGr1J1DpsIJVDPiDh5/pages/post.js": 10,
+      "static/QzIvdmRQycFxkKITqLGwM/pages/_app.js": 2,
+      "static/QzIvdmRQycFxkKITqLGwM/pages/_error.js": 3,
+      "static/QzIvdmRQycFxkKITqLGwM/pages/index.js": 4,
+      "static/QzIvdmRQycFxkKITqLGwM/pages/post.js": 5
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}
