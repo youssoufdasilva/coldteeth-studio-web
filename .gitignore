@@ -1,0 +1,6 @@
+web/node_modules
+dist
+web/.next
+web/out
+.DS_Store
+studio/node_modules
