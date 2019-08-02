@@ -11,7 +11,7 @@ function Index(props) {
           ({ _id, title = "", slug = "", _updatedAt = "" }) =>
             slug && (
               <li key={_id}>
-                <Link prefetch href={`/p/${slug.current}`}>
+                <Link prefetch href={`/post/${slug.current}`}>
                   <a>{title}</a>
                 </Link>{" "}
                 ({new Date(_updatedAt).toDateString()})
