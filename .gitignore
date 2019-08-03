@@ -4,3 +4,4 @@ web/.next
 web/out
 .DS_Store
 studio/node_modules
+node_modules
